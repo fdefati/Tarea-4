@@ -1,0 +1,34 @@
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.exe
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.deps.json
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.runtimeconfig.json
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.dll
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\ref\Tarea 4 Faty.dll
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.pdb
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.AssemblyReference.cache
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea_4_Faty.Form1.resources
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.GenerateResource.cache
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.AssemblyInfoInputs.cache
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.AssemblyInfo.vb
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.CoreCompileInputs.cache
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.dll
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\ref\Tarea 4 Faty.dll
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.pdb
+C:\Users\Eldie\source\repos\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.genruntimeconfig.cache
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.exe
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.deps.json
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.runtimeconfig.json
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.dll
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\ref\Tarea 4 Faty.dll
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\bin\Debug\net6.0-windows\Tarea 4 Faty.pdb
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.AssemblyReference.cache
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea_4_Faty.Form1.resources
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.GenerateResource.cache
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.AssemblyInfoInputs.cache
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.AssemblyInfo.vb
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.vbproj.CoreCompileInputs.cache
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.dll
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\ref\Tarea 4 Faty.dll
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.pdb
+C:\Users\fatim\Desktop\Tarea 4 Faty\Tarea 4 Faty\obj\Debug\net6.0-windows\Tarea 4 Faty.genruntimeconfig.cache
